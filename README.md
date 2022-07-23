@@ -1,5 +1,17 @@
-### Heya, Welcome To My Github Profile! 👋
+## Heya, Welcome To My Github Profile! 👋
 [![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amromnia&count_private=true&show_icons=true&theme=dracula)](https://github.com/amromnia)
+
+### I'm A CS Student Interested In All Sorts Of CS-Related Fields! 
+#### Interests Include:
+  #####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Software Engineering*
+  ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Networking*
+  ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cyber-Security*
+  ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*AI*
+  ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Programming*
+  ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Virtualization*
+  ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*More!*
+  
+  #### You Can Contact Me Using My Email: *amr20000225@miuegypt.edu.eg*
 
 <!--
 **amromnia/amromnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
