@@ -11,9 +11,12 @@
   ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Virtualization*
   ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*More!*
   
-  #### You Can Contact Me Using My Email: *amr20000225@miuegypt.edu.eg*
+  #### You Can Contact Me Using:
   
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/amr913)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amr20000225@miuegypt.edu.eg)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr913/)
+ 
+
 
 <!--
 **amromnia/amromnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
