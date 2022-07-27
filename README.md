@@ -12,6 +12,8 @@
   ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*More!*
   
   #### You Can Contact Me Using My Email: *amr20000225@miuegypt.edu.eg*
+  
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/amr913)
 
 <!--
 **amromnia/amromnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
