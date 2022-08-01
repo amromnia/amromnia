@@ -1,7 +1,7 @@
 ## Heya, Welcome To My Github Profile! 👋
 [![Amr's GitHub stats](https://github-readme-stats-git-master-amromnia.vercel.app/api?username=amromnia&count_private=true&show_icons=true&theme=dracula)](https://github.com/amromnia)
 
-[![Amr's Top Languages](https://github-readme-stats-git-master-amromnia.vercel.app/api/top-langs/?username=amromnia&count_private=true&theme=dracula)](https://github.com/amromnia)
+[![Amr's Top Languages](https://github-readme-stats-git-master-amromnia.vercel.app/api/top-langs/?username=amromnia&count_private=true&theme=dracula&langs_count=8)](https://github.com/amromnia)
 
 ### I'm A CS Student Interested In All Sorts Of CS-Related Fields! 
 #### Interests Include:
